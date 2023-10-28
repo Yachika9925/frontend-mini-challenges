@@ -517,6 +517,13 @@ export const challenges = [
     developer: 'sadanandpai',
     tags: [],
   },
+  {
+    title: 'Guess The Number',
+    link: 'Guess The Number',
+    difficulty: 'medium',
+    developer: 'Yachika9925',
+    tags: [],
+  },
   { title: 'Emoji Editor', link: '#' },
   { title: 'Sort Table', link: '#' },
 ];
